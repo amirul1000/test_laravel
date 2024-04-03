@@ -1,0 +1,1 @@
+<h1>Header <?php echo date("Y-m-d"); ?></h1>
